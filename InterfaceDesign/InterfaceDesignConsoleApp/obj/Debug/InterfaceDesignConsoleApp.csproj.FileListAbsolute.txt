@@ -1,0 +1,7 @@
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesignConsoleApp\bin\Debug\InterfaceDesignConsoleApp.exe.config
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesignConsoleApp\bin\Debug\InterfaceDesignConsoleApp.exe
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesignConsoleApp\bin\Debug\InterfaceDesignConsoleApp.pdb
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesignConsoleApp\obj\Debug\InterfaceDesignConsoleApp.csproj.CoreCompileInputs.cache
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesignConsoleApp\obj\Debug\InterfaceDesignConsoleApp.exe
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesignConsoleApp\obj\Debug\InterfaceDesignConsoleApp.pdb
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesignConsoleApp\obj\Debug\InterfaceDesignConsoleApp.csprojResolveAssemblyReference.cache

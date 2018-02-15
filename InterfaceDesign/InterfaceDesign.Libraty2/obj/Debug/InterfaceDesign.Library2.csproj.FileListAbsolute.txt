@@ -1,0 +1,6 @@
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Libraty2\bin\Debug\InterfaceDesign.Library2.dll
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Libraty2\bin\Debug\InterfaceDesign.Library2.pdb
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Libraty2\obj\Debug\InterfaceDesign.Library2.csprojResolveAssemblyReference.cache
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Libraty2\obj\Debug\InterfaceDesign.Library2.csproj.CoreCompileInputs.cache
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Libraty2\obj\Debug\InterfaceDesign.Library2.dll
+C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Libraty2\obj\Debug\InterfaceDesign.Library2.pdb
