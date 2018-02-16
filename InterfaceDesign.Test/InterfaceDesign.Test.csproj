@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="TestStep1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestStep2.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
