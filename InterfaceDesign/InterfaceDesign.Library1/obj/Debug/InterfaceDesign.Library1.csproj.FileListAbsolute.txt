@@ -1,5 +1,0 @@
-C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Library1\bin\Debug\InterfaceDesign.Library1.dll
-C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Library1\bin\Debug\InterfaceDesign.Library1.pdb
-C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Library1\obj\Debug\InterfaceDesign.Library1.csproj.CoreCompileInputs.cache
-C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Library1\obj\Debug\InterfaceDesign.Library1.dll
-C:\AllFiles\Work\ATeam\Concultancy\_Workshops\2nd\Prep\InterfaceDesignWS\InterfaceDesign\InterfaceDesign.Library1\obj\Debug\InterfaceDesign.Library1.pdb
