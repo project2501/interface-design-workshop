@@ -1,16 +1,15 @@
 ﻿// ----------------------------------------------------------------------------
 //
-// - Introducing public interfaces
-// - implementation of these new interfaces
-// - But, Service1 still uses a "new" keyword for the service2 implementation,
-//      which makes no difference with the mocking problem on the test side.
+// - Introducing a "service locator" (Static one, to spare a context for the demo)
+// - Usage of registration in production and test to mock the dependencies
+// - Talk about the evil "new" keyword.
 //
 // ----------------------------------------------------------------------------
 
 
-namespace InterfaceDesignConsoleApp.Step2
+namespace InterfaceDesignConsoleApp.Step3
 {
-    using System;    
+    using System;
 
     namespace Domain1
     {
@@ -22,7 +21,8 @@ namespace InterfaceDesignConsoleApp.Step2
 
                 System.Threading.Thread.Sleep(250); // act like you do something
 
-                var service2 = new Domain2.Service2();
+
+                var service2 = Public.Step3.Locator.Resolve<Public.Domain2.ISupportUseCase2>();
                 service2.UseCase2();
 
                 Console.WriteLine("[Done] Serive1.UseCase1");

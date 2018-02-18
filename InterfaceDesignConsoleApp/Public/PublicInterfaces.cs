@@ -15,4 +15,11 @@
             int UseCase2();
         }
     }
+
+    public interface IServiceLocator
+    {
+        T Resolve<T>();
+
+        void Register<T>(object implementation);
+    }
 }
