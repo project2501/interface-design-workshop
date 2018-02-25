@@ -1,8 +1,7 @@
-# interface-design-workshop
-Repository for my "Interface Design" workshop 
+# Interface Design Workshop
 
-
-This repository is helping me to keep my examples up-to-date and reachable for everyone who reads my blog or attend my workshop.
+This a repository for my "Interface Design" workshop. 
+This repository is helping me to keep my examples up-to-date and reachable for everyone who reads my blog or attend my workshops.
 
 I 'll update this readme as soon as I publish my blog-post.
 
@@ -20,7 +19,3 @@ I 'll update this readme as soon as I publish my blog-post.
 
 ### Step 4
 * Build poor men's DI'
-
-
-
-- Kaan
