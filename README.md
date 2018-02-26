@@ -23,5 +23,5 @@ Introduce Dependency Injection
 * Service Broker and Shearing Layers
 
 ### Step 6
-* Single Level of Abstraction and problams
+* Single Level of Abstraction and problems
 
