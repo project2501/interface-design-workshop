@@ -1,7 +1,6 @@
 # Interface Design Workshop
 
-This a repository for my "Interface Design" workshop. 
-This repository is helping me to keep my examples up-to-date and reachable for everyone who reads my blog or attend my workshops.
+This repository is helping me to keep my examples up-to-date and reachable for everyone who reads my blog or attend my "Interface Design" workshop.
 
 I 'll update this readme as soon as I publish my blog-post.
 
