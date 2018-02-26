@@ -4,7 +4,7 @@
 //
 // ----------------------------------------------------------------------------
 
-namespace InterfaceDesignConsoleApp.Step1
+namespace InterfaceDesign.Step1
 {
     using System;
 

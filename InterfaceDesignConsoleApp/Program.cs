@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InterfaceDesignConsoleApp
+namespace InterfaceDesign
 {
     class Program
     {
@@ -35,6 +35,57 @@ namespace InterfaceDesignConsoleApp
             service3_1.UseCase1();
 
             Console.WriteLine(Environment.NewLine);
+
+
+            var secondsOfDay = new int[86400];
+
+            for (int i = 0; i < secondsOfDay.Length; i++)
+            {
+                // initialize
+                // -1 = no register
+                secondsOfDay[i] = -1;
+            }
+
+
+            // add 3:00
+
+            int threeAM = 3 * 60 * 60;
+            int fiveAM = 5 * 60 * 60;
+
+            // add 3am into array with its ending (5am)
+            for (int i = threeAM; i < fiveAM; i++)
+            {
+                secondsOfDay[i] = fiveAM; // register each second with its ending
+            }
+
+            // is 4am Rush hour?
+
+            int fourAM = 4 * 60 * 60;
+
+            if (secondsOfDay[fourAM] != -1)
+            {
+                Console.WriteLine("working");
+            }
+            else
+            {
+                Console.WriteLine("Not working");
+            }
+
+
+            // is 7am Rush hour?
+
+            int sevenAM = 7 * 60 * 60;
+
+            if (secondsOfDay[sevenAM] == -1)
+            {
+                Console.WriteLine("working");
+            }
+            else
+            {
+                Console.WriteLine("not working");
+            }
+
+
 
             Console.ReadKey();
         }

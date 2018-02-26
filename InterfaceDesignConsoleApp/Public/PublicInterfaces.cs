@@ -1,4 +1,4 @@
-﻿namespace InterfaceDesignConsoleApp.Public
+﻿namespace InterfaceDesign.Public
 {
     namespace Domain1
     {

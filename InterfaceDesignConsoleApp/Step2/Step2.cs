@@ -8,7 +8,7 @@
 // ----------------------------------------------------------------------------
 
 
-namespace InterfaceDesignConsoleApp.Step2
+namespace InterfaceDesign.Step2
 {
     using System;    
 
@@ -18,14 +18,14 @@ namespace InterfaceDesignConsoleApp.Step2
         {
             public int UseCase1()
             {
-                Console.WriteLine("[Invoked] Serive1.UseCase1");
+                Console.WriteLine("[Invoked] Service1.UseCase1");
 
                 System.Threading.Thread.Sleep(250); // act like you do something
 
-                var service2 = new Domain2.Service2();
+                Public.Domain2.ISupportUseCase2 service2 = new Domain2.Service2();
                 service2.UseCase2();
 
-                Console.WriteLine("[Done] Serive1.UseCase1");
+                Console.WriteLine("[Done] Service1.UseCase1");
 
                 return 1;
             }
@@ -38,11 +38,11 @@ namespace InterfaceDesignConsoleApp.Step2
         {
             public int UseCase2()
             {
-                Console.WriteLine("[Invoked] Serive2.UseCase2");
+                Console.WriteLine("[Invoked] Service2.UseCase2");
 
                 System.Threading.Thread.Sleep(250); // act like you do something
 
-                Console.WriteLine("[Done] Serive2.UseCase2");
+                Console.WriteLine("[Done] Service2.UseCase2");
                 return 1;
             }
         }

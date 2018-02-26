@@ -1,5 +1,5 @@
 ﻿
-namespace InterfaceDesignConsoleApp.Public
+namespace InterfaceDesign.Public
 {
     namespace Step3
     {
