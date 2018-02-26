@@ -18,4 +18,11 @@ I 'll update this readme as soon as I publish my blog-post.
 * Talk about the evil "new" keyword.
 
 ### Step 4
-* Build poor men's DI'
+Introduce Dependency Injection
+
+### Step 5
+* Service Broker and Shearing Layers
+
+### Step 6
+* Single Level of Abstraction and problams
+
