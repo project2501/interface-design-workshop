@@ -16,12 +16,23 @@ I 'll update this readme as soon as I publish my blog-post.
 * Usage of registration in production and test to mock the dependencies
 * Talk about the evil "new" keyword.
 
+Problem with the service locator: 
+* Only the consumers know the dependencies. 
+* In order to use the "consumer" we need to know which dependency used by which consumer, so we can register the dependencies to the locator.
+
 ### Step 4
-Introduce Dependency Injection
+Introduce Dependency Injection 
+* Poor Men's
+* Ninject
+
 
 ### Step 5
 * Service Broker and Shearing Layers
 
 ### Step 6
+Problems
+
+* Law of Demeter
 * Single Level of Abstraction and problems
+* A-cyclic dependencies
 
