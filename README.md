@@ -23,16 +23,18 @@ Problem with the service locator:
 ### Step 4
 Introduce Dependency Injection 
 * Poor Men's
-* Ninject
-
 
 ### Step 5
-* Service Broker and Shearing Layers
+Introduce Dependency Injection 
+* Ninject
 
 ### Step 6
-Problems
+Examples 
 
-* Law of Demeter
+* Law of Demeter and Interface-Chain
+* Principle of least astonishment
 * Single Level of Abstraction and problems
+* Interface segragation
 * A-cyclic dependencies
+* Service Broker and Shearing Layers
 

@@ -31,7 +31,7 @@
         [TestMethod]
         public void _01_TestService2()
         {
-            var service2 = new InterfaceDesign.Step2.Domain2.Service2();
+            var service2 = new InterfaceDesign.Step3.Domain2.Service2();
             int retVal = service2.UseCase2();
             Assert.IsTrue(retVal == 1);
         }
