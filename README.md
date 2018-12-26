@@ -1,3 +1,5 @@
+This project will be moved soon
+
 # Interface Design Workshop
 
 This repository is helping me to keep my examples up-to-date and reachable for everyone who reads my blog or attend my "Interface Design" workshop.
